@@ -34,5 +34,4 @@ dependencies {
     compile "org.androidannotations:androidannotations-api:$androidAnnotationsVersion"
 
     testCompile 'junit:junit:4.12'
-    compile 'javax.inject:javax.inject:1'
 }

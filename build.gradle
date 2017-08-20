@@ -21,8 +21,6 @@ allprojects {
 // global variables
 ext {
     androidAnnotationsVersion = "4.3.0"
-    // dependency injector
-    daggerVersion = "2.9"
 }
 
 task clean(type: Delete) {
