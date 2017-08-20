@@ -1,5 +1,5 @@
 # HackerNews
-<h3>Android-APP for reading <a href="https://hacker-news.firebaseio.com/v0/topstories.json">HackerNews top stories</a></h3>
+<h3>Android-APP for reading <a href="https://news.ycombinator.com/">HackerNews top stories</a></h3>
 
 Rest service URL: https://hacker-news.firebaseio.com/v0/topstories.json
 
