@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hacker News Top Stories</string>
+    <string name="strRefresh">Reload</string>
+    <string name="strLoad">Load more...</string>
+</resources>
